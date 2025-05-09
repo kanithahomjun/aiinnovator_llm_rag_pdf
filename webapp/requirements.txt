@@ -1,0 +1,9 @@
+Flask 
+docling 
+qdrant-client 
+sentence-transformers 
+langchain 
+python-dotenv
+groq
+docling
+langchain-community
