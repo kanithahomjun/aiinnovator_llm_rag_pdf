@@ -92,7 +92,7 @@ def main():
     st.title("🤖 AI Innovator LLM & RAG")
     st.subheader("Chatbot ช่วยตอบคำถามเกี่ยวกับข้อมูลในเอกสาร")
     st.markdown(
-        "<center>ผู้พัฒนาโดย: Jeerasak ss4 (Game)</center>", unsafe_allow_html=True
+        "<center>ผู้พัฒนาโดย: Kanitha Homjun </center>", unsafe_allow_html=True
     )
 
     qdrant, embedding_model = initialize_services()
